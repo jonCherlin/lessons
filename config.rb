@@ -1,0 +1,11 @@
+http_path = "/"
+sass_dir = 'sass'
+css_dir = 'css'
+images_dir = 'img'
+javascripts_dir = 'js'
+http_stylesheets_path = 'css'
+http_javascripts_path = 'js'
+http_images_path = 'img'
+environment = :development
+output_style = :expanded
+relative_assets = true
