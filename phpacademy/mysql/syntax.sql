@@ -1,5 +1,5 @@
-INSERT INTO 'table' ('field1', 'field2') VALUES (my_int, 'my_string')
+INSERT INTO `posts` (`title`, `contents`) VALUES ('This is the first post', 'Yes it is.')
 
-INSERT INTO 'table' SET
-	'field1' = my_int,
-	'field2' = 'my_string'
+INSERT INTO `posts` SET
+	`title` = 'The second post',
+	`contents` = 'Once again, yes it is.'

@@ -1,8 +1,21 @@
 <?php
 
-if ( isset($_POST['title'], $POST['post'])) {
-	mysql_query("");
+include_once('resources/init.php');
+
+if ( isset($_POST['title'], $_POST['post'])) {
+	
+	$title = htmlentities($_POST['title']);
+	$post = htmlentities($_POST['post']);
+	
+	mysql_query("INSERT INTO `posts` SET
+	`title` = '{$title}',
+	`contents` = '{$post}'");
 }
+
+/*$q = mysql_query("SELECT `contents` FROM `posts` WHERE `id` = 11");
+	$r = mysql_fetch_assoc($q);
+	
+	echo $r['contents'];*/
 
 ?>
 
