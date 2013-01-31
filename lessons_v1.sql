@@ -23,21 +23,14 @@ CREATE TABLE IF NOT EXISTS `posts` (
   `title` varchar(255) NOT NULL,
   `contents` text NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=13 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=14 DEFAULT CHARSET=latin1;
 
--- Dumping data for table phpacademy.posts: ~10 rows (approximately)
+-- Dumping data for table phpacademy.posts: ~3 rows (approximately)
 /*!40000 ALTER TABLE `posts` DISABLE KEYS */;
 INSERT INTO `posts` (`id`, `title`, `contents`) VALUES
 	(1, 'This is the first post', 'Yes it is.'),
 	(2, 'The second post', 'Once again, yes it is.'),
-	(3, 'Third post yay!!', 'work already'),
-	(6, 'Wooooooooo', '<script type="text/javascript">alert("Hello");</script>'),
-	(7, 'Wooooooooo', '<sript type="text/javascript">alert("Hello");</script>'),
-	(8, 'Wooooooooo', '<sript type="text/javascript">alert("Hello");</script>'),
-	(9, 'Wooooooooo', '<sript type="text/javascript">alert("Hello");</script>'),
-	(10, 'Wooooooooo', '<sript type="text/javascript">alert("Hello");</script>'),
-	(11, 'test', '&lt;sript type=&quot;text/javascript&quot;&gt;alert(&quot;Hello&quot;);&lt;/script&gt;'),
-	(12, 'test', '&lt;sript type=&quot;text/javascript&quot;&gt;alert(&quot;Hello&quot;);&lt;/script&gt;');
+	(3, 'Third post yay!!', 'work already');
 /*!40000 ALTER TABLE `posts` ENABLE KEYS */;
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
 /*!40014 SET FOREIGN_KEY_CHECKS=IF(@OLD_FOREIGN_KEY_CHECKS IS NULL, 1, @OLD_FOREIGN_KEY_CHECKS) */;
