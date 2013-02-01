@@ -4,6 +4,11 @@
 
 Handful of links and ordering of lessons to learn the fundamentals of PHP.
 
+## Lesson 3:
+
+1. Go through [lessons 11 - 24 in this PHP Tutorial Youtube List](http://www.youtube.com/playlist?list=PL442FA2C127377F07&feature=plcp) 
+2. Go through [Adventure 1 in Vim Adventures](http://vim-adventures.com/)
+
 ## Lesson 2:
 
 1. Setup a git repos
@@ -21,3 +26,8 @@ Handful of links and ordering of lessons to learn the fundamentals of PHP.
 * [PHP Bounce - 8 Missions](http://phpbounce.aws.af.cm/)
 * [PHP Academy](https://phpacademy.org/course/mysql-php-basics-database)
 * [PHP Tutorial Youtube List](http://www.youtube.com/playlist?list=PL442FA2C127377F07&feature=plcp) 
+
+
+## COMING SOON!:
+
+* http://unixmages.com/ufbm.pdf
