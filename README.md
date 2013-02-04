@@ -30,4 +30,7 @@ Handful of links and ordering of lessons to learn the fundamentals of PHP.
 
 ## COMING SOON!:
 
+* http://net.tutsplus.com/tutorials/php/the-best-way-to-learn-php/
+* http://www.lynda.com/PHP-tutorials/php-with-mysql-essential-training/435-2.html
+* https://tutsplus.com/course/php-fundamentals/
 * http://unixmages.com/ufbm.pdf
