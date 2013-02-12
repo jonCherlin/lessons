@@ -4,10 +4,15 @@
 
 Handful of links and ordering of lessons to learn the fundamentals of PHP.
 
+## Lesson #4:
+1. Go through [Lessons 1-27] here at PHP Academy](https://phpacademy.org/course/php-basics-tutorial)
+
 ## Lesson 3:
 
-1. Go through [lessons 11 - 24 in this PHP Tutorial Youtube List](http://www.youtube.com/playlist?list=PL442FA2C127377F07&feature=plcp) 
+1. Go through [lessons 11 - 30 in this PHP Tutorial Youtube List](http://www.youtube.com/playlist?list=PL442FA2C127377F07&feature=plcp) 
 2. Go through [Adventure 1 in Vim Adventures](http://vim-adventures.com/)
+
+We'll look into Lynda.com tutorials, and stronger PHP Academy lesson (the PHP Basic are 1-27)
 
 ## Lesson 2:
 
