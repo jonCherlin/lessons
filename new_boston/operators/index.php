@@ -42,7 +42,7 @@ $result = $number1 % $number2;
 
 echo $result;*/
 
-$number = 654;
+/*$number = 654;
 
 $upper = 1000;
 $lower = 500;
@@ -52,6 +52,16 @@ if (($number <= $upper) && ($number >= $lower)) {
 }
 else {
 	echo 'Not Ok';
+}*/
+
+$num1 = '1';
+$num2 = 1;
+
+if ($num1 === $num2) {
+	echo 'Equal.';
+}
+else {
+	echo 'Not equal.';
 }
 
 ?>
