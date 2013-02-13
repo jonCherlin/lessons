@@ -35,11 +35,23 @@ else {
 
 //$result = ($number1 + $number2) / $number3;
 
-$number1 = 10;
+/*$number1 = 10;
 $number2 = 3;
 
 $result = $number1 % $number2;
 
-echo $result;
+echo $result;*/
+
+$number = 654;
+
+$upper = 1000;
+$lower = 500;
+
+if (($number <= $upper) && ($number >= $lower)) {
+	echo 'Ok';
+}
+else {
+	echo 'Not Ok';
+}
 
 ?>
