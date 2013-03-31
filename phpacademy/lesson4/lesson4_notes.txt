@@ -17,3 +17,7 @@ Function Basic:
 Function Advanced:
 
 - If you have a "return" value, of a variable, in a function...you can echo that value by echoing the function.
+
+HTML Display:
+
+- When displaying large blocks of html you can close the php tag, write the html, and then reopen the php tag...instead of concatenating or echoing html.
