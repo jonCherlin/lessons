@@ -13,3 +13,7 @@ While Loop:
 Function Basic:
 
 - In php you can call a function before it's defined.
+
+Function Advanced:
+
+- If you have a "return" value, of a variable, in a function...you can echo that value by echoing the function.
