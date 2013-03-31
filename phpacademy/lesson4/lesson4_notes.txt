@@ -1,0 +1,9 @@
+VIM:
+
+- Use H,J,K,L to move around.
+
+- Moving up and down from row to row...if can's stay in same column will move over to the next one.
+
+PHPACADEMY:
+
+- While Loop. As long as a conditional is true, it will output defined block of code.
