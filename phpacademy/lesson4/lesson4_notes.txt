@@ -21,3 +21,19 @@ Function Advanced:
 HTML Display:
 
 - When displaying large blocks of html you can close the php tag, write the html, and then reopen the php tag...instead of concatenating or echoing html.
+
+Echo / Print:
+
+- nothing new learned.
+
+Variables:
+
+- nothing new learned.
+
+If Statements:
+
+- nothing new learned.
+
+Arithmetic Operators:
+
+- nothing new learned.
