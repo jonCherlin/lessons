@@ -6,4 +6,10 @@ VIM:
 
 PHPACADEMY:
 
-- While Loop. As long as a conditional is true, it will output defined block of code.
+While Loop:
+
+- As long as a conditional is true, it will output defined block of code.
+
+Function Basic:
+
+- In php you can call a function before it's defined.
