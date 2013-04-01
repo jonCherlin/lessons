@@ -110,3 +110,5 @@ Triple Equals:
 Checkboxes:
 
 - Usually form method would be method="post".
+
+- If all inputs have the same name, then you can only select one. However, if they are different names, then you can select more than one.
