@@ -66,3 +66,31 @@ ex:
 	?>
 
 This would echo 49 in the browser.
+
+While Loop:
+
+- Everything already explained in While Statement.
+
+Do While Loop:
+
+- Skipped.
+
+For Loops :
+
+- skipped.
+
+Foreach :
+
+- skipped.
+
+Functions :
+
+- skipped.
+
+$_GET :
+
+- An example of a GET associative array passed through a url
+
+	localhost/phpacademy/basic/get/index.php?name=Alex&age=21
+
+- when using a form, to check what was submitted use if(isset($var)){}
