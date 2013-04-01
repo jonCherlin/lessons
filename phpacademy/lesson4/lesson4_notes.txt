@@ -94,3 +94,11 @@ $_GET :
 	localhost/phpacademy/basic/get/index.php?name=Alex&age=21
 
 - when using a form, to check what was submitted use if(isset($var)){}
+
+Embedding PHP within HTML:
+
+- skipped.
+
+$_POST:
+
+- $_POST is like $_GET except the array keys / values are not in the url.
