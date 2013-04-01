@@ -102,3 +102,11 @@ Embedding PHP within HTML:
 $_POST:
 
 - $_POST is like $_GET except the array keys / values are not in the url.
+
+Triple Equals:
+
+- skipped.
+
+Checkboxes:
+
+- Usually form method would be method="post".
