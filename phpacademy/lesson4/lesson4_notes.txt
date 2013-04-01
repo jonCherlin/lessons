@@ -6,7 +6,7 @@ VIM:
 
 PHPACADEMY:
 
-While Loop:
+While Statment:
 
 - As long as a conditional is true, it will output defined block of code.
 
@@ -37,3 +37,32 @@ If Statements:
 Arithmetic Operators:
 
 - nothing new learned.
+
+Comparison Operators:
+
+- skipped.
+
+Logical Operators:
+
+- skipped.
+
+Switch Statment:
+
+- skipped.
+
+Arrays:
+
+- if you print_r(); an array then you can echo out everything in it. If you echo(); it'll just echo out as Array.
+
+Multi-dimensional Arrays:
+
+- To echo a key of an array within an array
+ex:
+	<?php
+	$names = array (
+		'Dale'=>array('Age' => 49, 'Hair' => 'Blonde');
+	);
+	echo $names{'Dale'}{'Age'}
+	?>
+
+This would echo 49 in the browser.
